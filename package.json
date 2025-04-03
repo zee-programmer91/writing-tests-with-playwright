@@ -1,0 +1,22 @@
+{
+  "name": "writing-tests-with-playwright",
+  "version": "1.0.0",
+  "description": "This is a project where I learn to write test using Playwright on Python",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zee-programmer91/writing-tests-with-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zee-programmer91/writing-tests-with-playwright/issues"
+  },
+  "homepage": "https://github.com/zee-programmer91/writing-tests-with-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
